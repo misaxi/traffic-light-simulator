@@ -1,0 +1,11 @@
+{
+  "name": "traffic-light-simulator",
+  "private": true,
+  "scripts": {
+    "test": "tap tests/*-test.js"
+  },
+  "devDependencies": {
+    "tap": "^5.4.3",
+    "tape": "^4.4.0"
+  }
+}

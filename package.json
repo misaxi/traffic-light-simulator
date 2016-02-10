@@ -2,7 +2,8 @@
   "name": "traffic-light-simulator",
   "private": true,
   "scripts": {
-    "test": "tap tests/*-test.js"
+    "test": "tap tests/*-test.js",
+    "test:cov": "tap tests/*-test.js --cov"
   },
   "devDependencies": {
     "tap": "^5.4.3",
